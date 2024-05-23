@@ -19,6 +19,7 @@ Our method is suitable for dark images. $\sigma$ is higher, the result is more a
 
 <img src = "figures/figure2.jpg"> 
 
+<!--
 ## Citation
 If you use this code, please consider citing:
 
@@ -32,3 +33,5 @@ If you use this code, please consider citing:
       primaryClass={cs.CV}
 }
 ```
+
+-->
